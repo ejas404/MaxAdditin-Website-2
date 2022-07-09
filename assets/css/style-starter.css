@@ -17233,6 +17233,17 @@ h3.title-big {
   border-radius: 50%;
 }
 
+.w3l-bottom-about .area-box i {
+  color:#ff4f81;
+  background: rgb(255 79 129 / 15%);
+  font-size: 30px;
+  width: 70px;
+  height: 70px;
+  line-height: 70px;
+  border-radius: 50%;
+}
+
+
 .w3l-bottom-about .area-box span.icon-style-2 {
   color: #ffc947;
   background: rgb(255 201 73 / 22%);
